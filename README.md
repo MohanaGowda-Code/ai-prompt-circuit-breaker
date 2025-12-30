@@ -39,6 +39,7 @@ Built with Java 17, ready for production-grade learning.
 {
   "prompt": "Hello AI, write a short poem about Java."
 }
-**Author**
+
+##Author
 Mohana P – Senior Java & Spring Boot Developer
 GitHub: https://github.com/MohanaGowda-Code
